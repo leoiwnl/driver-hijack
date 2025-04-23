@@ -1,0 +1,11 @@
+﻿  driver.cpp
+C:\Users\Leo\source\repos\mapper\mapper\src\drv\driver.cpp(31,12): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Leo\source\repos\mapper\mapper\src\drv\driver.cpp(34,75): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  main.cpp
+C:\Users\Leo\source\repos\mapper\mapper\src\main.cpp(26,16): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'void *'
+  Generating code
+  8 of 8 functions (100.0%) were compiled.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  mapper.vcxproj -> C:\Users\Leo\source\repos\mapper\mapper\build\test.exe
